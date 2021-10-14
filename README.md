@@ -6,6 +6,9 @@ If you don’t know how to do it, here are some useful links.
 
 Watch the presentation if you want to know more about the project
 
+
+How install OpenGL in Visual Studio 2019 on Windows.
+
 English
 https://www.youtube.com/watch?v=XOtY4yzitdk
 
