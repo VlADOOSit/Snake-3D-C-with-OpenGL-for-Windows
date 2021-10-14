@@ -1,1 +1,1 @@
-# Snake-3D-C-with-OpenGL-for-Windows
+# Snake-3D-C++-with-OpenGL-for-Windows
